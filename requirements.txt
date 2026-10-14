@@ -1,0 +1,6 @@
+ultralytics
+opencv-python
+numpy
+
+# Optional local buzzer sound: install playsound when BUZZER_MODE="sound".
+# Optional Raspberry Pi GPIO output: install RPi.GPIO for the target platform.
